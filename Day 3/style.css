@@ -1,0 +1,16 @@
+
+#div1{
+    background-color: red;
+}
+#div2{
+    background-color: yellow;
+}
+#div3{
+    background-color: blue;
+}
+#div4{
+    background-color: green;
+}
+#div1, #div2, #div3, #div4 {
+    border: dashed;
+}
